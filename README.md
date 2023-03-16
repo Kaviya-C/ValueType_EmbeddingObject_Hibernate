@@ -1,0 +1,2 @@
+# ValueType_EmbeddingObject_Hibernate
+Hibernate_ValueType_EmbedddingObject_OneToOne_OneToMany_ManyToMany
